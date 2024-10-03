@@ -36,4 +36,4 @@ I developed this project in the same order above, and so it could be helpful for
 
 ### Remarks
 
-I personally learned a lot by undertaking this challenge. This project increased my appreciation of Databases exponentially, beacuse I understand the humongous efforts needed to make one. Although, I did a lot to try make the performance better, it still is not upto what I would have liked. There are many optimisations which can be done to make it faster but, for now I will give this project a rest and work on something else. I am glad I undertook this project.
+I personally learned a lot by undertaking this challenge. This project increased my appreciation of Databases exponentially, beacuse I now understand the humongous efforts needed to make one. I tried a lot to things to make the performance better but, it still is not upto what I would have liked. Regardless though, for now I will give this project a rest and work on something else. I am glad I undertook this project.
