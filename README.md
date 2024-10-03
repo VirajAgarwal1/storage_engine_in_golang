@@ -1,12 +1,12 @@
 # Storage Engine with B-Trees
 ---
 
-#### Overview
+### Overview
 
 This project was made for learning about B-Trees and their role in the internals of the Database (DB). In this project, I have tried to make a DB from scratch, but due to sheer amount of functions needed to make a fully functional DB, I stopped the project at a storage engine. The difference is that this is purely for savely data in an orderly fashion and doesn't actually provide the ACID (Atomicity, Consistency, Isolation and Durability) properties of good databases. The `notes.xopp` and the `notes.pdf` files, are my handwritten notes made in Xournall++, through which I did all of the planning for the project and made all the decisions.
 
 ---
-#### How to run this project
+### How to run this project
 
 ###### 1. If you have golang installed on your device: 
 1.  Go to the directory where the project is saved `cd /project/directory/`
